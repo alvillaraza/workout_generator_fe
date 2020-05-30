@@ -1,0 +1,24 @@
+.App {
+  border: 1px solid black;
+}
+header,
+footer {
+  background-color: grey;
+  text-align: center;
+  padding: 20px;
+}
+h1 {
+  margin: 0;
+}
+main {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+div {
+  margin: 10px;
+}
+button {
+  background-color: black;
+  color: white;
+}
